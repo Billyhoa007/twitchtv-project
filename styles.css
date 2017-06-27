@@ -1,0 +1,33 @@
+#Jumbo {
+    background-color: magenta;
+}
+
+#Title {
+    color: white;
+    
+}
+
+#fccStatus {
+    color: limegreen;
+}
+
+i {
+    color: lime;
+    font-family: 'Sigmar One', cursive;
+}
+
+.green {
+    color: green; 
+    font-family: 'Modak', cursive;
+}
+
+.red {
+    color: red;
+    font-family: 'Chango', cursive;
+}
+
+h4 {
+    font-family: 'Indie Flower', cursive;
+}
+
+
